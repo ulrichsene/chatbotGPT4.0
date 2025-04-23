@@ -14,11 +14,13 @@ A chat interface for querying Confluence pages using OpenAI's GPT model and Lang
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
-to run: python app.py
+```
+To run chatbot in terminal: 
+```bash
+python app.py
